@@ -1,4 +1,4 @@
-# Google Homepage Clone Design
+# Google Homepage Clone 
 
 I've cloned Google's homepage design for the assignment for the Patika+ full stack web developer bootcamp.
 
